@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+#lead h1 {
+    font-size: 3em;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+}
+
+#lead h2 {
+    font-size: 1.75em;
+    font-weight: 300;
+    letter-spacing: 0.02em;
+}
+
+#about p {
+    font-size: 1.1em;
+    line-height: 1.8;
+}
+
+.education-block h3, .project-info h3 {
+    font-weight: 700;
+}
+
+.btn-rounded-white {
+    font-weight: 700;
+    letter-spacing: 0.05em;
+}
