@@ -12,14 +12,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #lead h1 {
-    font-size: 20em;  /* Increased from 3em to 4.5em */
+    font-size: 8em;  /* Increased from 3em to 4.5em */
     font-weight: 900;
     letter-spacing: 0.05em;
     margin-bottom: 20px;  /* Added to create some space below the name */
 }
 
 #lead h2 {
-    font-size: 2em;  /* Slightly increased from 1.75em to 2em */
+    font-size: 5em;  /* Slightly increased from 1.75em to 2em */
     font-weight: 300;
     letter-spacing: 0.02em;
     margin-bottom: 30px;  /* Added to create some space below the title */
